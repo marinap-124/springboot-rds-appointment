@@ -1,7 +1,0 @@
-com/example/demo/data/Service.class
-com/example/demo/controller/ServiceController.class
-com/example/demo/repository/ServiceRepository.class
-com/example/demo/data/Appointment.class
-com/example/demo/repository/AppointmentRepository.class
-com/example/demo/controller/AppointmentController.class
-com/example/demo/SpringbootRdsAppointmentApplication.class

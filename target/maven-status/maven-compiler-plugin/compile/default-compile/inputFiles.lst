@@ -1,7 +1,0 @@
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/controller/AppointmentController.java
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/controller/ServiceController.java
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/repository/AppointmentRepository.java
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/SpringbootRdsAppointmentApplication.java
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/data/Appointment.java
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/data/Service.java
-/home/marinap/workspace/Workspace_OauthAngular/springboot-rds-appointment/src/main/java/com/example/demo/repository/ServiceRepository.java
